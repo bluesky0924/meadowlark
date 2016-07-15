@@ -1,0 +1,19 @@
+{
+  "author": "",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0"
+  },
+  "description": "training app used in book 'Web Development with Node and Express",
+  "license": "ISC",
+  "main": "meadowlark.js",
+  "name": "meadowlark.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bluesky0924/meadowlark"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "version": "1.0.0"
+}
